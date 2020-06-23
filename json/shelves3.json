@@ -1,0 +1,2173 @@
+{	
+	"floor": "three",
+	"collection": [{
+			"shelfRow": [{
+			"id": "#steely-shelves1",
+	 		"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ky"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ky"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ky"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ky"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "ky"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "ky"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "ky"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "ky"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "ky"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves2",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ky"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ky"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ky"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ky"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "ky"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "ky"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "ky", 
+					"callNumber2": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-A"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves3",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-A"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves4",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-A"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-C"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves5",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-C"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves6",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-C"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves7",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-C"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves8",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-C"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves9",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-C"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-D"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves10",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-D"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves11",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-D"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-D"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-D"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-E"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-E"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves12",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-E"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-E"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-E"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-E"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-E"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-E"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-E"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-E"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-E"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves13",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-E"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-E"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-F"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-F"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-F"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-G"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-G"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-G"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-G"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves14",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-G"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-G"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-G"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-G"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-H"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves15",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-H"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves16",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-H"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves17",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-I"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves18",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-I"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves19",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-I"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-J"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-J"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-J"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-J"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves20",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-J"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-J"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-L"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-L"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-L"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-L"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-L"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-L"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-L"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves21",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-L"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-L"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-L"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-L"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-L"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-L"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-L"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-L"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-N"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves22",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-N"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-P"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-P"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-P"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-P"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves23",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-P"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-P"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-S"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-S"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-S"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-S"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-S"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-S"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-S"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves24",
+			"type": "goverment",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-S"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-S"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-S"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-S"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-S"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-S"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-T"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-T"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-T"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves25",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-T"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-T"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-T"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-T"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-T"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-T"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-T"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves26",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-T"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-V"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-W"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-X"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-Y"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves27",
+			"type": "government",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "sudoc-Y"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves28",
+			"type": "government",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "sudoc-Y"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "sudoc-Z"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": ""
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves29",
+			"type": "media",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "media"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "media"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "media"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "media"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves30",
+			"type": "media",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "media"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "media"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "media"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "media"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "media"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves31",
+			"type": "media",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "media"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "media"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "media"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "media"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "media"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves32",
+			"type": "media",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "media"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "media"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "media"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "media"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves33",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-A"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-B",
+					"callNumber2": "ref-C"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-C", 
+					"callNumber2": "ref-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ref-D"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves34",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-D", 
+					"callnumber2": "ref-E"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-E", 
+					"callNumber2": "ref-F", 
+					"callNumber3": "ref-G"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-G"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ref-G"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "ref-G", 
+					"callNumber2": "ref-H"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves35",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ref-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "ref-H"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves36",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ref-J"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves37",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-J"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-J"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-J"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ref-J"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves38",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-J"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-J", 
+					"callNumber2": "ref-K"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-K"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ref-K", 
+					"callNumber2": "ref-L"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "ref-L", 
+					"callNumber2": "ref-M"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves39",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-M"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-M"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-M"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ref-M"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "ref-M", 
+					"callNumber2": "ref-N"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves40",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-N", 
+					"callNumber2": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ref-P"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves41",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ref-P"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves42",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "ref-P"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves43",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "ref-P"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves44",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ref-P"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves45",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-P"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-P"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves46",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-Q"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-Q"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-Q"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ref-Q"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves47",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-Q"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-Q"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-Q", 
+					"callNumber2": "ref-R"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "ref-R", 
+					"callNumber2": "ref-S", 
+					"callNumber3": "ref-T"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves48",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-T"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-T", 
+					"callNumber2": "ref-Z"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-Z"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves49",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-Z"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "ref-Z"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "ref-Z"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves50",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "ref-Z"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": ""
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": ""
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": ""
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves51",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": ""
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": ""
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": ""
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": ""
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves52",
+			"type": "reference",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": ""
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": ""
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": ""
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves53",
+			"type": "removed",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf10",
+					"callNumber": "removed"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves54",
+			"type": "removed",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf10",
+					"callNumber": "removed"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves55",
+			"type": "removed",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf10",
+					"callNumber": "removed"
+				}
+			]
+		}]
+	},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves56",
+			"type": "removed",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "removed"
+				},
+				{
+					"shelf": ".steely-shelf10",
+					"callNumber": "removed"
+				}
+			]
+		}
+		]},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves57",
+			"type": "newBooks",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "new"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "new"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "new"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "new"
+				}
+			]
+		}
+		]},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves58",
+			"type": "faculty",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "faculty"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "faculty"
+				}
+			]
+		}
+		]},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves59",
+			"type": "circ",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf10",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf11",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf12",
+					"callNumber": "circ"
+				}
+			]
+		}
+		]},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves60",
+			"type": "removed",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf10",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf11",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf12",
+					"callNumber": "circ"
+				}
+			]
+		}
+		]},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves61",
+			"type": "removed",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf10",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf11",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf12",
+					"callNumber": "circ"
+				}
+			]
+		}
+		]},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves62",
+			"type": "removed",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf9",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf10",
+					"callNumber": "circ"
+				}
+			]
+		}
+		]},
+		{
+			"shelfRow": [{
+			"id": "#steely-shelves63",
+			"type": "removed",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "circ"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "circ"
+				}
+			]
+		}
+		]}
+	]
+}

@@ -1,0 +1,4325 @@
+{
+	"floor": "two",
+	"collection": [{
+		"shelfRow": [{
+			"id":  "#steely-shelves1",
+			"type": "circulating",
+			"shelfUnits": [{
+				"shelf": ".steely-shelf1",
+				"callNumber": "loc-A"
+				},
+				{
+				"shelf": ".steely-shelf2",
+				"callNumber": "loc-A"
+				},
+				{
+				"shelf": ".steely-shelf3",
+				"callNumber": "loc-A"
+				},
+				{
+				"shelf": ".steely-shelf4",
+				"callNumber": "loc-A"
+				}
+			]
+		}]	
+	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves2",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-A",
+					"callNumber2": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves3",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves4",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves5",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves6",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves7",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves8",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves9",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves10",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves11",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves12",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves13",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves14",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves15",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves16",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-B"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves17",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-B"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-B",
+					"callNumber2": "loc-C"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-C"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-C"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves18",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-C"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-C"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-C"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-C"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-C"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves19",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-C"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-C"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-C"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-C"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-C"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves20",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves21",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves22",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves23",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves24",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves25",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves26",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves27",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves28",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves29",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves30",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves31",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves32",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves33",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves34",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves35",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves36",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-D"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves37",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-D"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-D",
+					"callNumber2": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-E"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves38",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-E"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves39",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-E"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves40",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-E"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves41",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-E"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-E",
+					"callNumber2": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-F"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves42",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-F"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves43",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-F"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves44",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-F"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves45",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-F"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves46",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-F"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves47",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-F"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves48",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-F"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves49",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-F"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves50",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-F"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves51",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-F"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves52",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-F"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-F",
+					"callNumber2": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-G"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves53",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-G"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves54",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-G"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves55",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-G"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves56",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-G"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves57",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-G"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-G"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves58",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves59",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves60",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves61",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves62",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves63",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves64",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves65",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves66",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves67",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves68",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves69",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves70",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves71",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves72",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves73",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves74",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves75",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves76",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves77",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves78",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves79",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves80",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves81",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves82",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves83",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves84",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves85",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves86",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves87",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves88",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves89",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves90",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-H"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-H", 
+					"callNumber2": "loc-J"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves91",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-J"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves92",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-J"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves93",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-J"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves94",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-J"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves95",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-J"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves96",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-J"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves97",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-J"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves98",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-J"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-K"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves99",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-K"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves100",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-K"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-K", 
+					"callnumber2": "loc-L"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves101",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-L"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves102",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-L"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves103",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-L"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves104",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-L"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves105",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-L"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves106",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-L"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves107",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-L"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-L", 
+					"callnumber2": "loc-M"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves108",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-M"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves109",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-M"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves110",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-M"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-M"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves111",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves112",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves113",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves114",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves115",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves116",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves117",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves118",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves119",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves120",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves121",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves122",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves123",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves124",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves125",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-N"
+				}
+			]
+	}]	},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves126",
+			"type": "circulating",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "loc-N"
+				},
+				{
+					"shelf": ".steely-shelf8",
+					"callNumber": "loc-N"
+				}
+			]
+		}
+		]},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves127",
+			"type": "digital-resources",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "dra"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "dra"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "dra"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "dra"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "dra"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "dra"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "dra"
+				}
+			]
+		}
+		]},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves128",
+			"type": "digital-resources",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "dra"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "dra"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "dra"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "dra"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "dra"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "dra"
+				},
+				{
+					"shelf": ".steely-shelf7",
+					"callNumber": "dra"
+				}
+			]
+		}
+		]},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves129",
+			"type": "popular",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "pop"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "pop"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "pop"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "pop"
+				},
+				{
+					"shelf": ".steely-shelf5",
+					"callNumber": "pop"
+				},
+				{
+					"shelf": ".steely-shelf6",
+					"callNumber": "pop"
+				}
+			]
+		}
+		]},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves130",
+			"type": "periodicals",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "per"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "per"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "per"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "per"
+				}
+			]
+		}
+		]},
+		{
+			"shelfRow": [{
+			"id":  "#steely-shelves131",
+			"type": "periodicals",
+			"shelfUnits": [{
+					"shelf": ".steely-shelf1",
+					"callNumber": "per"
+				},
+				{
+					"shelf": ".steely-shelf2",
+					"callNumber": "per"
+				},
+				{
+					"shelf": ".steely-shelf3",
+					"callNumber": "per"
+				},
+				{
+					"shelf": ".steely-shelf4",
+					"callNumber": "per"
+				}
+			]
+		}
+		]}
+	]
+}
